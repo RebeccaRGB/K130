@@ -1,0 +1,17 @@
+For switches:
+
+Lead version: TE Holtite 8134-HC-8P3
+Also known as: 7-1437514-1 (internal name)
+
+Gold version: TE Holtite 8134-HC-8P2
+Also known as: 7-1437514-0 (internal name)
+
+---------------------
+
+For LEDs:
+
+Lead version: TE Holtite 8134-HC-5P3
+Also known as: 6-1437514-7 (internal name)
+
+Gold version: TE Holtite 8134-HC-5P2
+Also known as: 6-1437514-6 (internal name)

@@ -1,0 +1,101 @@
+Function Key Row:
+1u, function key, top line: "F13", center line: "Help", bottom line: "Dec"
+1u, function key, top line: "F14", center line blank, bottom line: "Hex"
+1u, media key, top symbol: play/pause, bottom symbol: mute
+1u, media key, top symbol: previous track, bottom symbol: volume down
+1u, media key, top symbol: next track, bottom symbol: volume up
+1u, media key, top symbol: eject, bottom symbol: power
+(from standard set, not listed above: esc, F1-F12, prtsc, scrlk, pause/break)
+
+Number Key Row:
+1u, function key, top line: "F15", center line: "Stop", bottom line: "AltGr"
+1u, function key, top line: "F16", center line: "Again", bottom line: "PETSCII"
+1u, symbol key, top: ~ bottom: ` (for ANSI, ISO US layout)
+1u, symbol key, top: ¬ bottom: ` (for ISO UK layout)
+1u, modifier key, "Han/Zen" or "半/全" (for JIS layout)
+1u, symbol key, top: @ bottom: 2 (for ANSI, ISO US layout)
+1u, symbol key, top: " bottom: 2 (for ISO UK, JIS layout)
+1u, symbol key, top: # bottom: 3 (for ANSI, ISO US, JIS layout)
+1u, symbol key, top: £ bottom: 3 (for ISO UK layout)
+1u, symbol key, top: ^ bottom: 6 (for ANSI, ISO US, ISO UK layout)
+1u, symbol key, top: & bottom: 6 (for JIS layout)
+1u, symbol key, top: & bottom: 7 (for ANSI, ISO US, ISO UK layout)
+1u, symbol key, top: ' bottom: 7 (for JIS layout)
+1u, symbol key, top: * bottom: 8 (for ANSI, ISO US, ISO UK layout)
+1u, symbol key, top: ( bottom: 8 (for JIS layout)
+1u, symbol key, top: ( bottom: 9 (for ANSI, ISO US, ISO UK layout)
+1u, symbol key, top: ) bottom: 9 (for JIS layout)
+1u, symbol key, top: ) bottom: 0 (for ANSI, ISO US, ISO UK layout)
+1u, symbol key, top blank, bottom: 0 (for JIS layout)
+1u, symbol key, top: _ bottom: - (for ANSI, ISO US, ISO UK layout)
+1u, symbol key, top: = bottom: - (for JIS layout)
+1u, symbol key, top: + bottom: = (for ANSI, ISO US, ISO UK layout)
+1u, symbol key, top: ~ bottom: ^ (for JIS layout)
+1u, backspace key (for ANSI, ISO US, ISO UK layout)
+1u, symbol key, top: | bottom: ¥ (for JIS layout)
+1u, backspace key
+1u, numpad key, top line: "Num Lock", bottom line: "A"
+1u, numpad key, top line: "=", bottom line: "B"
+1u, numpad key, top line: "/", bottom line: "C"
+1u, numpad key, top line: "*", bottom line: "D"
+(from standard set, not listed above: !1, $4, %5, ins, home, pgup)
+
+QWERTY Row:
+1u, function key, top line: "F17", center line: "Props", bottom line: "Greek"
+1u, function key, top line: "F18", center line: "Undo", bottom line: "Cyrillic"
+1u, symbol key, top: } bottom: ] (for ANSI, ISO US, ISO UK layout)
+1u, symbol key, top: ` bottom: @ (for JIS layout)
+1.5u, symbol key, top: | bottom: \ (for ANSI layout)
+1.5u, enter key (for ISO US, ISO UK, JIS layout)
+1u, numpad key, top line: "-", bottom line: "E"
+(from standard set, not listed above: tab, QWERTYUIOP, {[, del, end, pgdn, numpad 789)
+
+Home Row:
+1u, function key, top line: "F19", center line: "Front", bottom line: "Hebrew"
+1u, function key, top line: "F20", center line: "Copy", bottom line: "Arabic"
+1u, symbol key, top: : bottom: ; (for ANSI, ISO US, ISO UK layout)
+1u, symbol key, top: + bottom: ; (for JIS layout)
+1u, symbol key, top: " bottom: ' (for ANSI, ISO US layout)
+1u, symbol key, top: @ bottom: ' (for ISO UK layout)
+1u, symbol key, top: * bottom: : (for JIS layout)
+1u, enter key (for ANSI layout)
+1u, symbol key, top: | bottom: \ (for ISO US layout)
+1u, symbol key, top: ~ bottom: # (for ISO UK layout)
+1u, symbol key, top: } bottom: ] (for JIS layout)
+1.25u, enter key
+1u, numpad key, top line: "+", bottom line: "F"
+(from standard set, not listed above: caps lock, ASDFGHJKL, numpad 456)
+
+Shift Row:
+1u, function key, top line: "F21", center line: "Open", bottom line: "IPA"
+1u, function key, top line: "F22", center line: "Paste", bottom line: "CS"
+1.25u, shift key
+1u, shift key (for ANSI, JIS layout)
+1u, symbol key, top: > bottom: < (for ISO US layout)
+1u, symbol key, top: | bottom: \ (for ISO UK layout)
+1u, shift key (for ANSI, ISO US, ISO UK layout)
+1u, symbol key, top: _ bottom: \ (for JIS layout)
+1.75u, shift key
+(from standard set, not listed above: ZXCVBNM, <,, >., ?/, up, numpad 123)
+
+Spacebar Row:
+1u, function key, top line: "F23", center line: "Find", bottom line: "Hiragana"
+1u, function key, top line: "F24", center line: "Cut", bottom line: "Katakana"
+1u, modifier key, "Ctrl"
+1u, modifier key, "Fn"
+1u, modifier key, "Meta"
+1u, modifier key, "Alt"
+1.5u, spacebar (for ANSI, ISO US, ISO UK layout)
+1.5u, modifier key, "Muhenkan" or (top line: "前侯補", bottom line: "無変換")
+2.75u, spacebar
+1.5u, spacebar (for ANSI, ISO US, ISO UK layout)
+1.5u, modifier key, "Henkan" or "変換" (for JIS layout)
+1.25u, spacebar (for ANSI, ISO US, ISO UK layout)
+1.25u, modifier key, "Kana" or (top line: "カタカナ", bottom line: "ひらがな")
+1u, modifier key, "Alt"
+1u, modifier key, "Meta"
+1u, modifier key, "Menu"
+1u, modifier key, "Ctrl"
+1u, numpad key, top line: "0", bottom line: "Ins"
+1u, numpad key, top line: ",", bottom line: "Copy"
+(from standard set, not listed above: left, down, right, numpad ., numpad enter)

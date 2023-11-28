@@ -1,0 +1,58 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=ledstrip
+*Date=21:40:35
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;9.49065;-6.13733;0;Bottom;TXT4
+2;;;40.0756;-6.1585;0;Bottom;TXT1
+3;;;40.1038;-3.68906;0;Bottom;TXT2
+4;;;59.0691;-3.68906;0;Bottom;TXT2
+5;;5 mm [THT];44.855;-4.04889;180;Bottom;LED5
+6;;5 mm [THT];16.28;-4.04889;180;Bottom;LED2
+7;;;59.0409;-6.1585;0;Bottom;TXT1
+8;;;5.67579;-6.5001;0;Bottom;Pad1
+9;;5 mm [THT];54.3646;-4.04889;180;Bottom;LED6
+10;;THT;78.5283;-3.97833;0;Bottom;J2
+11;;;3.27378;-1.142;0;Bottom;TXT5
+12;;;11.43;-1.11378;0;Bottom;TXT3
+13;;;49.53;-1.14906;0;Bottom;TXT3
+14;;;3.27378;-6.16556;0;Bottom;TXT4
+15;;;68.4953;-1.14906;0;Bottom;TXT3
+16;;;30.5082;-3.68906;0;Bottom;TXT2
+17;;;76.6798;-1.11378;0;Bottom;TXT5
+18;;;11.4582;-6.12322;0;Bottom;TXT1
+19;;5 mm [THT];63.8887;-4.04889;180;Bottom;LED7
+20;;;59.0127;-1.14906;0;Bottom;TXT3
+21;;;68.5236;-6.1585;0;Bottom;TXT1
+22;;;21.0256;-3.68906;0;Bottom;TXT2
+23;;;49.5864;-3.68906;0;Bottom;TXT2
+24;;;30.4518;-1.14906;0;Bottom;TXT3
+25;;;74.3409;-1.42011;0;Bottom;Pad4
+26;;;10.418;-1.07345;0;Bottom;TXT5
+27;;5 mm [THT];35.33;-4.04889;180;Bottom;LED4
+28;;;20.9973;-6.1585;0;Bottom;TXT1
+29;;5 mm [THT];73.4302;-4.04889;180;Bottom;LED8
+30;;;70.5314;-6.13733;0;Bottom;TXT4
+31;;;20.9691;-1.14906;0;Bottom;TXT3
+32;;;30.48;-6.1585;0;Bottom;TXT1
+33;;;11.4864;-3.65378;0;Bottom;TXT2
+34;;5 mm [THT];25.7949;-4.04889;180;Bottom;LED3
+35;;;5.67579;-1.4201;0;Bottom;Pad2
+36;;;68.5518;-3.68906;0;Bottom;TXT2
+37;;;74.3409;-6.5001;0;Bottom;Pad3
+38;;;69.6242;-1.07346;0;Bottom;TXT5
+39;;THT;1.48167;-3.97833;0;Bottom;J1
+40;;;49.5582;-6.1585;0;Bottom;TXT1
+41;;5 mm [THT];6.74747;-4.04245;-180;Bottom;LED1
+42;;;76.6798;-6.13733;0;Bottom;TXT4
+43;;;40.0473;-1.14906;0;Bottom;TXT3
