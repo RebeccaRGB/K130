@@ -5,8 +5,6 @@ Battlestation keyboard with 130 keys! It's an ANSI keyboard! It's an ISO keyboar
 
 ![Thing 2](photos/PXL_20231128_221848708~3.jpg)
 
-**Pictured above:** Thing 1 and Thing 2.
-
 I have successfully built and used two of these keyboards, so the design and software is pretty much done, but the documentation is still a work in progress.
 
 ## Stuff to Get
@@ -46,3 +44,31 @@ I have successfully built and used two of these keyboards, so the design and sof
 * Install the keycaps
 * Check that the keyboard works
 * Assemble the keyboard case
+
+## DIP Switches
+* SW1 OFF, SW2 OFF - Universal mode. ANSI, ISO, and JIS layout simultaneously.
+* SW1 ON, SW2 OFF - ANSI mode. Remaps JIS yen → backspace, ISO backslash → enter, ISO less/greater → left shift, JIS backslash → right shift, JIS muhenkan/henkan/kana → space.
+* SW1 OFF, SW2 ON - ISO mode. Remaps JIS yen → backspace, ANSI backslash → enter, JIS backslash → right shift, JIS muhenkan/henkan/kana → space.
+* SW1 ON, SW2 ON - JIS mode. Remaps ANSI backslash → enter, ISO less/greater → left shift.
+* SW3 OFF - PC modifier layout. Ctrl, Meta, Alt on left side; Alt, Meta, Ctrl on right side.
+* SW3 ON - Mac modifier layout. Ctrl, Alt, Meta on left side; Meta, Alt, Ctrl on right side.
+* With SW6 OFF:
+  * SW4 OFF - Left keypad is mapped to F13-F24.
+  * SW4 ON - Left keypad is mapped to corresponding keys on a Sun keyboard (Help, Stop, Props, Front, Open, Find, Again, Undo, Copy, Paste, Cut).
+  * SW5 OFF - Numeric keypad is mapped normally.
+  * SW5 ON - Num lock, =, /, \*, -, + are mapped to letter keys A-F, giving you a hexadecimal pad.
+* With SW6 ON:
+  * **Super input mode!**
+  * Press Dec for Unicode decimal input. Press Hex for Unicode hexadecimal input.
+  * Press Dec twice to toggle **num lock lock**. The numeric keypad will always produce numbers regardless of num lock.
+  * Press Hex twice to toggle **hex lock lock**. Like num lock lock, except with a hexadecimal pad.
+  * Press other left keypad keys once to input a non-ASCII character.
+  * Press twice to input multiple non-ASCII characters.
+  * Press twice again to return to normal input.
+  * SW4 OFF, SW5 OFF - Unix mode; non-ASCII characters are input using Ctrl+Shift+U + code point in hex.
+  * SW4 ON, SW5 OFF - Windows decimal mode; non-ASCII characters are input using Alt + Numpad 0 + code point in decimal.
+  * SW4 OFF, SW5 ON - Windows hexadecimal mode; non-ASCII characters are input using Alt + Numpad Plus + code point in hex.
+  * SW4 ON, SW5 ON - Mac mode; non-ASCII characters are input using Option + UTF-16 code units in hex.
+
+## Layouts
+![](keycaps/K130.svg)
