@@ -1,5 +1,11 @@
 # K130
-Battlestation keyboard with 130 keys!
+Battlestation keyboard with 130 keys! It's an ANSI keyboard! It's an ISO keyboard! It's a JIS keyboard! It's all of the above!
+
+![Thing 1](photos/PXL_20231128_190814304~2.jpg)
+
+![Thing 2](photos/PXL_20231128_221848708~3.jpg)
+
+**Pictured above:** Thing 1 and Thing 2.
 
 I have successfully built and used two of these keyboards, so the design and software is pretty much done, but the documentation is still a work in progress.
 
