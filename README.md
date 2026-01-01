@@ -71,4 +71,64 @@ I have successfully built and used two of these keyboards, so the design and sof
   * SW4 ON, SW5 ON - Mac mode; non-ASCII characters are input using Option + UTF-16 code units in hex.
 
 ## Layouts
-![](keycaps/K130.svg)
+In **super input mode**, the left keypad keys can be used to switch to the following layouts.
+
+### US AltGr Layout
+The F15/AltGr left keypad key enters the characters on the right.
+The standard US layout is shown on the left for reference.
+
+![](layouts/svg/us-altgr.svg)
+
+### PETSCII Layout
+The F16/PETSCII left keypad key enters the characters on the right.
+The standard US layout is shown on the left for reference.
+
+![](layouts/svg/petscii.svg)
+
+### Greek Symbol Layout
+The F17/Greek left keypad key enters the characters on the left if the Alt
+key is released or the characters on the right if the Alt key is pressed.
+
+![](layouts/svg/symbol.svg)
+
+### Cyrillic Layout
+The F18/Cyrillic left keypad key enters the characters on the left if the Alt
+key is released or the characters on the right if the Alt key is pressed.
+
+![](layouts/svg/cyrillic.svg)
+
+### Hebrew Layout
+The F19/Hebrew left keypad key enters the characters on the left if the Alt
+key is released or the characters on the right if the Alt key is pressed.
+
+![](layouts/svg/hebrew.svg)
+
+### Arabic Layout
+The F20/Arabic left keypad key enters the characters on the left if the Alt
+key is released or the characters on the right if the Alt key is pressed.
+
+![](layouts/svg/arabic.svg)
+
+### IPA Layout
+The F21/IPA left keypad key enters the characters on the left if the Alt
+key is released or the characters on the right if the Alt key is pressed.
+
+![](layouts/svg/ipa.svg)
+
+### Sitelen Pona Layout
+The F22/CS left keypad key enters the characters on the left if the Alt
+key is released or the characters on the right if the Alt key is pressed.
+
+![](layouts/svg/sitelenpona.svg)
+
+### JIS Hiragana Layout
+The F23/Hiragana left keypad key enters the characters on the right.
+The standard JIS layout is shown on the left for reference.
+
+![](layouts/svg/jis-hiragana.svg)
+
+### JIS Katakana Layout
+The F24/Katakana left keypad key enters the characters on the right.
+The standard JIS layout is shown on the left for reference.
+
+![](layouts/svg/jis-katakana.svg)
